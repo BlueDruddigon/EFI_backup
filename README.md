@@ -1,0 +1,1 @@
+# EFI backup for Hackintosh
